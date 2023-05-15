@@ -1,2 +1,6 @@
 gambiarra
 salva na tabela
+
+Primeiro acesso do usuario
+
+Aula diff
